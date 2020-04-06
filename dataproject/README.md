@@ -15,7 +15,7 @@ The **results** of the project can be seen from running [Handin_DataProject.ipyn
 
 ``import json``
  
-``mport pandas as pd``
+``import pandas as pd``
  
 ``from bs4 import BeautifulSoup``
  
