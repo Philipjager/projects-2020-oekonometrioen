@@ -25,8 +25,6 @@ The **results** of the project can be seen from running [Handin_DataProject.ipyn
   
 ``import numpy as np``
   
-``import seaborn as sns``
-  
 ``import matplotlib.pyplot as plt``
 
 ``import datetime``
