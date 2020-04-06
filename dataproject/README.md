@@ -9,6 +9,38 @@ The **results** of the project can be seen from running [Handin_DataProject.ipyn
 3. articles_day.csv
 4. links_corona.csv
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the installation and download of the following packages:
 
-``pip install matplotlib-venn``
+``import requests``
+
+``import json``
+ 
+``mport pandas as pd``
+ 
+``from bs4 import BeautifulSoup``
+ 
+``import scraping_class``
+  
+``import re``
+  
+``import numpy as np``
+  
+``import seaborn as sns``
+  
+``import matplotlib.pyplot as plt``
+
+``import datetime``
+ 
+``import nltk``
+ 
+``import matplotlib.dates as mdates``
+ 
+``from matplotlib.transforms import Transform``
+ 
+``from matplotlib.ticker import (AutoLocator, AutoMinorLocator, LinearLocator)``
+ 
+``import matplotlib.cbook as cbook``
+ 
+``from time import sleep``
+
+
