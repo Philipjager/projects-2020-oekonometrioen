@@ -9,7 +9,7 @@ The **results** of the project can be seen from running [Handin_DataProject.ipyn
 3. articles_day.csv
 4. links_corona.csv
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the installation and download of the following packages:
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the installation and import of the following packages:
 
 ``import requests``
 
