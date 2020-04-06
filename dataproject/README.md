@@ -4,8 +4,10 @@ Our project is titled **Coronavirus mentions in The Guardian** and is an analysi
 
 The **results** of the project can be seen from running [Handin_DataProject.ipynb](Handin_DataProject.ipynb). If you wish to recreate the results of this project you can get the necessary data from the following files: 
 
-1. Data.xlsx ``For the data over confirmed cases of Coronavirus``
-1. 
+1. Data.xlsx 
+2. articles_corona.csv.zip 
+3. articles_day.csv
+4. links_corona.csv
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
